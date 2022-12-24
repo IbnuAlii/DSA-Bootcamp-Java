@@ -1,4 +1,0 @@
-Classes are templates for creating objects
-Objects is the instance of a class.
-
-UML: Unified Modeling Language
