@@ -1,0 +1,6 @@
+Upcasting : Casting an object to one of its super types.
+
+Downcasting : casting an object to one of its sub types
+
+POLY-MORPH-ISM:
+Many form
